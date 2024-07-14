@@ -1,6 +1,6 @@
 # IPShifter
 
-IPShifter is a Python script for changing your IP address using TOR, with additional features for network anonymity.
+IPShifter is a Python tool for changing your IP address using TOR, with additional features for network anonymity.
 
 ![IPShifter Screenshot](./image1.png)
 ![IPShifter Screenshot](./image2.png)
