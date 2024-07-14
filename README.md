@@ -14,6 +14,10 @@ IPShifter is a Python tool for changing your IP address using TOR, with addition
 - Automatically installs necessary dependencies (Python packages and TOR)
 - ASCII art and colorful console output for better user experience
 
+
+## Developer Name
+#### Kunal Namdas
+
 ## Installation
 
 ### Prerequisites
