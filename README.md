@@ -28,6 +28,8 @@ Install the required Python libraries and TOR:
 ```bash
 sudo apt update
 sudo apt install tor python3-pip -y
+pip install -r requirements.txt
+or......
 pip install pystyle colorama requests
 ```
 
@@ -36,7 +38,7 @@ pip install pystyle colorama requests
 ### Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/IPShifter.git
+git clone https://github.com/kunalnamdas/IPShifter.git
 cd IPShifter
 ```
 
